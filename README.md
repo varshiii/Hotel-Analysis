@@ -1,11 +1,11 @@
-# 🏥 **Hospital Analysis using Pandas**
+# 🏨 **Hotel Analysis using Pandas**
   
-**Analyzing hospital bookings, room capacity, and customer behavior**
+**Analyzing hotel bookings, room capacity, and customer behavior**
 
 ---
 
 ## 📋 **Overview**
-This project performs a comprehensive hospital booking analysis using multiple datasets and `Pandas` to uncover trends in **bookings**, **room occupancy**, and **customer ratings**. By leveraging both **dimensional** and **fact tables**, the project dives into understanding **hospital capacity utilization**, booking platforms, customer behavior, and revenue generation.
+This project performs a comprehensive hotel booking analysis using multiple datasets and `Pandas` to uncover trends in **bookings**, **room occupancy**, and **customer ratings**. By leveraging both **dimensional** and **fact tables**, the project dives into understanding **hotel capacity utilization**, booking platforms, customer behavior, and revenue generation.
 
 ---
 
@@ -77,9 +77,9 @@ This project performs a comprehensive hospital booking analysis using multiple d
 ---
 
 ## 📝 **Conclusion**
-This hospital booking analysis provides valuable insights into how properties can:
+This hotel booking analysis provides valuable insights into how properties can:
 - Optimize **room capacity**.
 - Better understand **customer preferences**.
 - Improve overall **revenue generation**.
 
-The use of **fact and dimensional tables** allows for a more detailed and accurate analysis of booking data. Feel free to explore and adapt this analysis for your own hospital booking data!
+The use of **fact and dimensional tables** allows for a more detailed and accurate analysis of booking data. Feel free to explore and adapt this analysis for your own hotel booking data!
